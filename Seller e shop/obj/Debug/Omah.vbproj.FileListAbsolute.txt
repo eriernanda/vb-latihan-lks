@@ -1,0 +1,16 @@
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Omah.vbprojResolveAssemblyReference.cache
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.Mastering_Akun.resources
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.MenuUtamaMaster.resources
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.Form2.resources
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.Login.resources
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.Transaksi.resources
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.MenuUtamaAdmin.resources
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.Resources.resources
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Omah.vbproj.GenerateResource.Cache
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller e shop.exe
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller e shop.xml
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller e shop.pdb
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\bin\Debug\Seller e shop.exe.config
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\bin\Debug\Seller e shop.exe
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\bin\Debug\Seller e shop.pdb
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\bin\Debug\Seller e shop.xml

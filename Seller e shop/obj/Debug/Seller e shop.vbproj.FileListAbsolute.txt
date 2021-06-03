@@ -1,0 +1,17 @@
+c:\users\eri ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\bin\Debug\Seller e shop.exe.config
+c:\users\eri ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\bin\Debug\Seller e shop.exe
+c:\users\eri ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\bin\Debug\Seller e shop.pdb
+c:\users\eri ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\bin\Debug\Seller e shop.xml
+c:\users\eri ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller e shop.vbprojResolveAssemblyReference.cache
+c:\users\eri ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.Form2.resources
+c:\users\eri ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.Resources.resources
+c:\users\eri ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller e shop.vbproj.GenerateResource.Cache
+c:\users\eri ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller e shop.exe
+c:\users\eri ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller e shop.xml
+c:\users\eri ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller e shop.pdb
+C:\Users\Eri Ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.MenuUtamaMaster.resources
+C:\Users\Eri Ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.Login.resources
+C:\Users\Eri Ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.Transaksi.resources
+C:\Users\Eri Ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.Restock.resources
+C:\Users\Eri Ernanda\documents\visual studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.MenuUtamaAdmin.resources
+C:\Users\Eri Ernanda\Documents\Visual Studio 2015\Projects\Seller e shop\Seller e shop\obj\Debug\Seller_e_shop.Mastering_Akun.resources
